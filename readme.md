@@ -21,6 +21,7 @@ If you use these models in your research, please cite:
 
 Jyotishman Saikia, Shihui Yin, Sai Kiran Cherupally, Bo Zhang, Jian Meng, Mingoo Seok, and Jae-sun Seo, “Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design,” IEEE Design, Automation & Test in Europe (DATE), February 2021.
 
+
 @inproceedings{saikia_date21,
   title={{Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design}},
   author={Saikia, Jyotishman and Yin, Shihui and Cherupally, Sai Kiran and Zhang, Bo and Meng, Jian and Seok, Mingoo and Seo, Jae-sun},
