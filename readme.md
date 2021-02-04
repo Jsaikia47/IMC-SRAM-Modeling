@@ -27,6 +27,17 @@ Run the code by running the shell script, ‘evaluate.sh’ added to each model.
 
 Modeled Resnet18 network for datasets CIFAR-10 and ImageNet. Corresponding Baseline accuracies are listed below.
 
+Model Weight/Activation Precision   |    CIFAR-10   |     ImageNet
+------------------------------------|---------------|---------------
+1-bit |  88.98  |   n/a
+2-bit |  90.52  |  62.83
+4-bit |  91.47  |  69.16
+
+
+
+
+
+
 CIFAR-10:
 
 1-bit:    88.98%  ;   2-bit:   90.52% ;    4-bit:   91.47%
