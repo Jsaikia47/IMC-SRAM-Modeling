@@ -24,7 +24,7 @@ To be added.
 Each of the model directories, include a subfolder ‘./models/’. The convolution and Fully connected layer with the bit-by-bit IMC implementation are described in this subfolder. The model layers description is listed in the same directory.
 
 
-Run the code by running the shell script, ‘evaluate.sh’ added to each model. Default arguments are added and can be changed to user input. 
+Run the code by running the shell script, ‘evaluate.sh’ added to each model directory. Default arguments are added for ease and can be changed to user input. 
 
 ## Models
 
