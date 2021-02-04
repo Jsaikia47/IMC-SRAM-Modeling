@@ -1,4 +1,4 @@
-#Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design
+# Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design
 By Jyotishman Saikia, Bo Zhang, Jian Meng, Mingoo Seok and Jae-sun Seo.
 
 Collaborative effort between Arizona State University  and Columbia University.
