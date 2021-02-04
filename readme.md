@@ -23,10 +23,15 @@ Jyotishman Saikia, Shihui Yin, Sai Kiran Cherupally, Bo Zhang, Jian Meng, Mingoo
 
 
 @inproceedings{saikia_date21,
+
   title={{Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design}},
+  
   author={Saikia, Jyotishman and Yin, Shihui and Cherupally, Sai Kiran and Zhang, Bo and Meng, Jian and Seok, Mingoo and Seo, Jae-sun},
+  
   booktitle={Design, Automation, and Test in Europe (DATE)},
+  
   year={2021}
+  
 }
 
 ## How to run
