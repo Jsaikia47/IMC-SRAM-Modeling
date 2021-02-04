@@ -32,17 +32,3 @@ Model Weight/Activation Precision   |    CIFAR-10   |     ImageNet
 1-bit |  88.98  |   n/a
 2-bit |  90.52  |  62.83
 4-bit |  91.47  |  69.16
-
-
-
-
-
-
-CIFAR-10:
-
-1-bit:    88.98%  ;   2-bit:   90.52% ;    4-bit:   91.47%
-
-
-ImageNet:
-
-2-bit:    62.83%  ;   4-bit:   69.16%
