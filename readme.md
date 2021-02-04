@@ -5,7 +5,7 @@ Collaborative effort between Arizona State University  and Columbia University.
 
 
 
-**Table of Contents**:  
+### Table of Contents:  
 
 0.	Introduction
 1.	Citation
