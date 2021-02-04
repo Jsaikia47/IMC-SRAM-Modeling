@@ -1,5 +1,5 @@
 # Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design
-By Jyotishman Saikia, Bo Zhang, Jian Meng, Mingoo Seok and Jae-sun Seo.
+By Jyotishman Saikia, Shihui Yin, Sai Kiran Cherupally, Bo Zhang, Jian Meng, Mingoo Seok and Jae-sun Seo.
 
 Collaborative effort between Arizona State University  and Columbia University.
 
@@ -17,7 +17,16 @@ Collaborative effort between Arizona State University  and Columbia University.
 This repository contains the models described in the paper “Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design”. The work studies in-depth the effect of the parameters of a capacitive IMC SRAM design on network-level accuracy.
 
 ## Citation
-To be added.
+If you use these models in your research, please cite:
+
+Jyotishman Saikia, Shihui Yin, Sai Kiran Cherupally, Bo Zhang, Jian Meng, Mingoo Seok, and Jae-sun Seo, “Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design,” IEEE Design, Automation & Test in Europe (DATE), February 2021.
+
+@inproceedings{saikia_date21,
+  title={{Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design}},
+  author={Saikia, Jyotishman and Yin, Shihui and Cherupally, Sai Kiran and Zhang, Bo and Meng, Jian and Seok, Mingoo and Seo, Jae-sun},
+  booktitle={Design, Automation, and Test in Europe (DATE)},
+  year={2021}
+}
 
 ## How to run
 
@@ -28,7 +37,7 @@ Run the code by running the shell script, ‘evaluate.sh’ added to each model 
 
 ## Models
 
-Modeled Resnet18 network for datasets CIFAR-10 and ImageNet. Corresponding Baseline accuracies are listed below.
+Modeled Resnet18 network for datasets CIFAR-10 and ImageNet. Corresponding baseline accuracies are listed below.
 
 Model Weight/Activation Precision   |    CIFAR-10   |     ImageNet
 ------------------------------------|---------------|---------------
