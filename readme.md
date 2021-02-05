@@ -42,8 +42,10 @@ Each of the model directories, include a subfolder ‘./models/’. The convolut
 Run the code by running the shell script, ‘evaluate.sh’ added to each model directory. Default arguments are added for ease and can be changed to user input. 
 
 ## Models
+In the paper, we present a Python-based modeling framework for IMC SRAM hardware, which evaluates the inference accuracy of an arbitrary DNN. The simulation framework integrates different core design parameters, including DNN weight/activation precision, the number of activated rows, partial sum quantization schemes, ADC precision, ADC offset, and RBL voltage variation due to bitcell or capacitor mismatch.
 
-Modeled Resnet18 network for datasets CIFAR-10 and ImageNet. Corresponding baseline accuracies are listed below.
+
+We characterize the effect of different variations on the DNN accuracy with Resnet18 network for CIFAR-10 and ImageNet datasets. Corresponding baseline accuracies are listed below.
 
 Model Weight/Activation Precision   |    CIFAR-10   |     ImageNet
 ------------------------------------|---------------|---------------
